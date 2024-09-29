@@ -1,0 +1,279 @@
+[14:25:12] [main/INFO]: ModLauncher running: args [--username, Unoix, --version, forge-52.0.16, --gameDir, C:\Users\Jedrz\curseforge\minecraft\Instances\modpack, --assetsDir, C:\Users\Jedrz\curseforge\minecraft\Install\assets, --assetIndex, 17, --uuid, 668436a1913a4d368d12faaf79f1154e, --accessToken, **********, --clientId, Mjg1NDc0NDQtMmRiOC00NmFiLThmMDAtMjVkNDQ0OTE5YzZi, --xuid, 2535449774857034, --userType, msa, --versionType, release, --width, 854, --height, 480, --quickPlayPath, C:\Users\Jedrz\curseforge\minecraft\Install\quickPlay\java\1727612710860.json, --launchTarget, forge_client]
+[14:25:12] [main/INFO]: JVM identified as Microsoft OpenJDK 64-Bit Server VM 21.0.3+9-LTS
+[14:25:12] [main/INFO]: ModLauncher 10.2.1 starting: java version 21.0.3 by Microsoft; OS Windows 11 arch amd64 version 10.0
+[14:25:12] [main/INFO]: Loading ImmediateWindowProvider fmlearlywindow
+[14:25:12] [main/INFO]: Trying GL version 4.6
+[14:25:12] [main/INFO]: Requested GL version 4.6 got version 4.6
+[14:25:12] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///C:/Users/Jedrz/curseforge/minecraft/Install/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=CLIENT
+[14:25:13] [EarlyDisplay/INFO]: GL info: NVIDIA GeForce RTX 2070 SUPER/PCIe/SSE2 GL version 4.6.0 NVIDIA 561.09, NVIDIA Corporation
+[14:25:13] [main/INFO]: Found mod file AdChimneys-1.21-11.0.3.0-build.0260.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file additional_lights-1.21-2.1.9.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file AdLods-1.21-9.0.0.0-build.0046.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file advancednetherite-forge-2.1.6-1.21.1.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file balm-forge-1.21.1-21.0.19-all.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file BiomesOPlenty-forge-1.21.1-21.1.0.4.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file Bookshelf-forge-1.21.1-21.1.2.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file chas-1.21-3.0-forge.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file chat_heads-0.13.3-forge-1.21.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file collective-1.21.1-7.84.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file comforts-forge-9.0.2+1.21.1.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file connectedglass-1.1.11-forge-mc1.21.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file doubledoors-1.21.1-5.9.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file dynamiclights-1.21.1.1.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file EnchantmentDescriptions-forge-1.21.1-21.1.1.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file EuphoriaPatcher-0.3.4-forge.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file fallingleaves-1.21-2.4.0.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file FallingTree-1.21.1-1.21.1.2.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file ForgeEndertech-1.21-12.0.0.1-build.0100.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file fusion-1.1.1-forge-mc1.21.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file GlitchCore-forge-1.21.1-2.1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file jei-1.21.1-forge-19.8.4.113.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file journeymap-forge-1.21-6.0.0-beta.25.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file mcw-bridges-3.0.0-mc1.21.1forge.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file mcw-doors-1.1.1-mc1.21.1forge.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file mcw-fences-1.1.2-mc1.21.1forge.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file mcw-furniture-3.3.0-mc1.21.1forge.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file mcw-lights-1.1.1-mc1.21.1forge.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file mcw-paintings-1.0.5-1.21.1forge.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file mcw-paths-1.0.5-1.21.1forge.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file mcw-roofs-2.3.1-mc1.21.1forge.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file mcw-trapdoors-1.1.3-mc1.21.1forge.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file mcw-windows-2.3.0-mc1.21.1forge.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file movingelevators-1.4.8-forge-mc1.21.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file netherportalfix-forge-1.21.1-21.1.1.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file notenoughanimations-forge-1.7.6-mc1.21-all.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file PrickleMC-forge-1.21.1-21.1.2.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file skinlayers3d-forge-1.6.7-mc1.21-all.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file sound-physics-remastered-forge-1.21.1-1.4.6.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file supermartijn642configlib-1.1.8-forge-mc1.21.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file supermartijn642corelib-1.1.17e-forge-mc1.21.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file TerraBlender-forge-1.21.1-4.1.0.3.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file trashcans-1.0.18-forge-mc1.21.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file travelersbackpack-forge-1.21-10.0.1.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file weaponmaster_ydm-forge-1.21-4.2.3.jar of type MOD with provider {mods folder locator at C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\mods}
+[14:25:13] [main/INFO]: Found mod file forge-1.21.1-52.0.16-client.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@64aad6db
+[14:25:13] [main/INFO]: Found mod file javafmllanguage-1.21.1-52.0.16.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.ClasspathLocator@7308ffff
+[14:25:13] [main/INFO]: Found mod file mclanguage-1.21.1-52.0.16.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.ClasspathLocator@7308ffff
+[14:25:13] [main/INFO]: Found mod file forge-1.21.1-52.0.16-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.ClasspathLocator@7308ffff
+[14:25:13] [main/INFO]: Found mod file fmlcore-1.21.1-52.0.16.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.ClasspathLocator@7308ffff
+[14:25:13] [main/INFO]: Found mod file lowcodelanguage-1.21.1-52.0.16.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.ClasspathLocator@7308ffff
+[14:25:13] [main/INFO]: Found 7 dependencies adding them to mods collection
+[14:25:13] [main/INFO]: Found mod file common-networking-forge-1.0.16-1.21.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@144ab54
+[14:25:13] [main/INFO]: Found mod file MixinExtras-0.4.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@144ab54
+[14:25:13] [main/INFO]: Found mod file mixinextras-forge-0.4.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@144ab54
+[14:25:13] [main/INFO]: Found mod file kuma-api-forge-21.0.5-SNAPSHOT.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@144ab54
+[14:25:13] [main/INFO]: Found mod file pngj-2.1.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@144ab54
+[14:25:13] [main/INFO]: Found mod file journeymap-api-forge-2.0.0-1.21-SNAPSHOT.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@144ab54
+[14:25:13] [main/INFO]: Found mod file spectrelib-forge-0.17.2+1.21.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@144ab54
+[14:25:14] [main/INFO]: Compatibility level set to JAVA_17
+[14:25:14] [main/ERROR]: Mixin config weaponmaster_ydm.mixins.json does not specify "minVersion" or "requiredFeatures" property
+[14:25:14] [main/INFO]: Compatibility level set to JAVA_21
+[14:25:14] [main/INFO]: Launching target 'forge_client' with arguments [--version, forge-52.0.16, --gameDir, C:\Users\Jedrz\curseforge\minecraft\Instances\modpack, --assetsDir, C:\Users\Jedrz\curseforge\minecraft\Install\assets, --uuid, 668436a1913a4d368d12faaf79f1154e, --username, Unoix, --assetIndex, 17, --accessToken, **********, --clientId, Mjg1NDc0NDQtMmRiOC00NmFiLThmMDAtMjVkNDQ0OTE5YzZi, --xuid, 2535449774857034, --userType, msa, --versionType, release, --width, 854, --height, 480, --quickPlayPath, C:\Users\Jedrz\curseforge\minecraft\Install\quickPlay\java\1727612710860.json]
+[14:25:14] [main/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:25:14] [main/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:25:14] [main/WARN]: Reference map 'netherportalfix.refmap.json' for netherportalfix.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:25:14] [main/WARN]: Reference map 'netherportalfix.refmap.json' for netherportalfix.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:25:14] [main/WARN]: Reference map 'sound_physics_remastered.refmap.json' for sound_physics_remastered.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:25:14] [main/WARN]: Reference map 'fallingleaves.refmap.json' for fallingleaves.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:25:14] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:25:14] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:25:14] [main/WARN]: Reference map 'comforts.refmap.json' for comforts.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:25:14] [main/WARN]: Reference map 'glitchcore.refmap.json' for glitchcore.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:25:14] [main/WARN]: Reference map 'glitchcore.refmap.json' for glitchcore.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:25:14] [main/WARN]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:25:14] [main/WARN]: Reference map 'balm.refmap.json' for balm.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:25:14] [main/WARN]: Reference map 'fusion.mixins.refmap.json' for fusion.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:25:14] [main/WARN]: Reference map 'skinlayers3d.refmap.mixins.json' for skinlayers3d.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:25:14] [main/WARN]: Reference map 'terrablender.refmap.json' for terrablender.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:25:14] [main/WARN]: Reference map 'terrablender.refmap.json' for terrablender_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:25:14] [main/WARN]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:25:14] [main/WARN]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:25:14] [main/WARN]: Reference map 'adlods.refmap.json' for adlods.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:25:14] [main/WARN]: Reference map 'supermartijn642corelib.mixins.refmap.json' for supermartijn642corelib.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:25:14] [main/WARN]: Reference map 'movingelevators.mixins.refmap.json' for movingelevators.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:25:14] [main/WARN]: Reference map 'adchimneys.refmap.json' for adchimneys.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:25:14] [main/WARN]: Error loading class: com/cozary/tintedcampfires/campfire/ColorCampfire (java.lang.ClassNotFoundException: com.cozary.tintedcampfires.campfire.ColorCampfire)
+[14:25:14] [main/WARN]: Error loading class: com/cozary/tintedcampfires/campfire/colors/BlueCampfire (java.lang.ClassNotFoundException: com.cozary.tintedcampfires.campfire.colors.BlueCampfire)
+[14:25:14] [main/WARN]: Error loading class: com/cozary/tintedcampfires/campfire/colors/BrownCampfire (java.lang.ClassNotFoundException: com.cozary.tintedcampfires.campfire.colors.BrownCampfire)
+[14:25:14] [main/WARN]: Error loading class: com/cozary/tintedcampfires/campfire/colors/CyanCampfire (java.lang.ClassNotFoundException: com.cozary.tintedcampfires.campfire.colors.CyanCampfire)
+[14:25:14] [main/WARN]: Error loading class: com/cozary/tintedcampfires/campfire/colors/GrayCampfire (java.lang.ClassNotFoundException: com.cozary.tintedcampfires.campfire.colors.GrayCampfire)
+[14:25:14] [main/WARN]: Error loading class: com/cozary/tintedcampfires/campfire/colors/GreenCampfire (java.lang.ClassNotFoundException: com.cozary.tintedcampfires.campfire.colors.GreenCampfire)
+[14:25:14] [main/WARN]: Error loading class: com/cozary/tintedcampfires/campfire/colors/LightBlueCampfire (java.lang.ClassNotFoundException: com.cozary.tintedcampfires.campfire.colors.LightBlueCampfire)
+[14:25:14] [main/WARN]: Error loading class: com/cozary/tintedcampfires/campfire/colors/LightGrayCampfire (java.lang.ClassNotFoundException: com.cozary.tintedcampfires.campfire.colors.LightGrayCampfire)
+[14:25:14] [main/WARN]: Error loading class: com/cozary/tintedcampfires/campfire/colors/LimeCampfire (java.lang.ClassNotFoundException: com.cozary.tintedcampfires.campfire.colors.LimeCampfire)
+[14:25:14] [main/WARN]: Error loading class: com/cozary/tintedcampfires/campfire/colors/MagentaCampfire (java.lang.ClassNotFoundException: com.cozary.tintedcampfires.campfire.colors.MagentaCampfire)
+[14:25:14] [main/WARN]: Error loading class: com/cozary/tintedcampfires/campfire/colors/OrangeCampfire (java.lang.ClassNotFoundException: com.cozary.tintedcampfires.campfire.colors.OrangeCampfire)
+[14:25:14] [main/WARN]: Error loading class: com/cozary/tintedcampfires/campfire/colors/PinkCampfire (java.lang.ClassNotFoundException: com.cozary.tintedcampfires.campfire.colors.PinkCampfire)
+[14:25:14] [main/WARN]: Error loading class: com/cozary/tintedcampfires/campfire/colors/PurpleCampfire (java.lang.ClassNotFoundException: com.cozary.tintedcampfires.campfire.colors.PurpleCampfire)
+[14:25:14] [main/WARN]: Error loading class: com/cozary/tintedcampfires/campfire/colors/RedCampfire (java.lang.ClassNotFoundException: com.cozary.tintedcampfires.campfire.colors.RedCampfire)
+[14:25:14] [main/WARN]: Error loading class: com/cozary/tintedcampfires/campfire/colors/WhiteCampfire (java.lang.ClassNotFoundException: com.cozary.tintedcampfires.campfire.colors.WhiteCampfire)
+[14:25:14] [main/WARN]: Error loading class: com/cozary/tintedcampfires/campfire/colors/YellowCampfire (java.lang.ClassNotFoundException: com.cozary.tintedcampfires.campfire.colors.YellowCampfire)
+[14:25:14] [main/WARN]: Error loading class: io/github/mortuusars/sootychimneys/block/ChimneyBlock (java.lang.ClassNotFoundException: io.github.mortuusars.sootychimneys.block.ChimneyBlock)
+[14:25:14] [main/WARN]: Error loading class: com/railwayteam/railways/content/smokestack/SmokeStackBlock (java.lang.ClassNotFoundException: com.railwayteam.railways.content.smokestack.SmokeStackBlock)
+[14:25:14] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[14:25:14] [main/WARN]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///C:/Users/Jedrz/curseforge/minecraft/Install/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/C:/Users/Jedrz/curseforge/minecraft/Install/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///C:/Users/Jedrz/curseforge/minecraft/Install/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/C:/Users/Jedrz/curseforge/minecraft/Install/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[14:25:15] [Datafixer Bootstrap/INFO]: 226 Datafixer optimizations took 251 milliseconds
+[14:25:15] [main/WARN]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///C:/Users/Jedrz/curseforge/minecraft/Install/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/C:/Users/Jedrz/curseforge/minecraft/Install/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///C:/Users/Jedrz/curseforge/minecraft/Install/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/C:/Users/Jedrz/curseforge/minecraft/Install/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[14:25:17] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:25:17] [Render thread/INFO]: Setting user: Unoix
+[14:25:17] [Render thread/INFO]: Backend library: LWJGL version 3.3.3+5
+[14:25:17] [modloading-worker-0/INFO]: Forge mod loading, version 52.0.16, for MC 1.21.1 with MCP 20240808.132146
+[14:25:17] [modloading-worker-0/INFO]: MinecraftForge v52.0.16 Initialized
+[14:25:17] [modloading-worker-0/INFO]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[14:25:17] [modloading-worker-0/INFO]: Loading Collective version 7.84.
+[14:25:17] [modloading-worker-0/INFO]: Initializing platform helper for Advanced Netherite!
+[14:25:18] [modloading-worker-0/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
+[14:25:18] [modloading-worker-0/INFO]: Loaded journeymap.common.helpers.ForgeClientHooks@5fa7d771 for service interface journeymap.api.services.ClientPlatformService
+[14:25:18] [modloading-worker-0/INFO]: Loaded journeymap.common.helpers.ForgeHooks@30c27bcc for service interface journeymap.api.services.CommonPlatformService
+[14:25:18] [modloading-worker-0/INFO]: Sending ConfigManager...
+[14:25:18] [modloading-worker-0/INFO]: Sending ConfigManager took 2.715 ms
+[14:25:19] [modloading-worker-0/INFO]: EuphoriaPatches was successfully installed. Enjoy! -SpacEagle17 & isuewo
+[14:25:21] [Render thread/INFO]: Registering Keybinds
+[14:25:21] [Render thread/INFO]: Reloading ResourceManager: vanilla, mod_resources
+[14:25:21] [modloading-worker-0/WARN]: Configuration file C:\Users\Jedrz\curseforge\minecraft\Instances\modpack\config\balm-common.toml is not correct. Correcting
+[14:25:21] [modloading-worker-0/WARN]: Incorrect key exampleBoolean was corrected from null to its default, true. 
+[14:25:21] [modloading-worker-0/WARN]: Incorrect key exampleInt was corrected from null to its default, 42. 
+[14:25:21] [modloading-worker-0/WARN]: Incorrect key exampleString was corrected from null to its default, Hello World. 
+[14:25:21] [modloading-worker-0/WARN]: Incorrect key exampleMultilineString was corrected from null to its default, Hello World. 
+[14:25:21] [modloading-worker-0/WARN]: Incorrect key exampleEnum was corrected from null to its default, Hello. 
+[14:25:21] [modloading-worker-0/WARN]: Incorrect key exampleStringList was corrected from null to its default, [Hello, World]. 
+[14:25:21] [modloading-worker-0/WARN]: Incorrect key exampleResourceLocationSet was corrected from null to its default, [minecraft:diamond, minecraft:dirt]. 
+[14:25:21] [modloading-worker-0/WARN]: Incorrect key exampleIntList was corrected from null to its default, [12, 24]. 
+[14:25:21] [modloading-worker-0/WARN]: Incorrect key exampleEnumList was corrected from null to its default, [Hello, World]. 
+[14:25:21] [modloading-worker-0/WARN]: Incorrect key exampleCategory was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[14:25:21] [modloading-worker-0/WARN]: Incorrect key exampleCategory.innerField was corrected from null to its default, I am inside. 
+[14:25:21] [modloading-worker-0/WARN]: Incorrect key exampleCategory.exampleFloat was corrected from null to its default, 42.84. 
+[14:25:21] [modloading-worker-0/ERROR]: Unexpected error loading config value for exampleEnumList, falling back to default
+java.lang.ClassCastException: class net.blay09.mods.balm.config.ExampleConfigData$ExampleEnum cannot be cast to class java.lang.String (net.blay09.mods.balm.config.ExampleConfigData$ExampleEnum is in module balm@21.0.19 of loader 'TRANSFORMER' @6b9fdbc6; java.lang.String is in module java.base of loader 'bootstrap')
+	at TRANSFORMER/balm@21.0.19/net.blay09.mods.balm.forge.config.ForgeBalmConfig.lambda$readConfigValues$8(ForgeBalmConfig.java:149) ~[balm-forge-1.21.1-21.0.19-all.jar!/:21.0.19]
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1708) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at TRANSFORMER/balm@21.0.19/net.blay09.mods.balm.forge.config.ForgeBalmConfig.readConfigValues(ForgeBalmConfig.java:153) ~[balm-forge-1.21.1-21.0.19-all.jar!/:21.0.19]
+	at TRANSFORMER/balm@21.0.19/net.blay09.mods.balm.forge.config.ForgeBalmConfig.readConfigValues(ForgeBalmConfig.java:103) ~[balm-forge-1.21.1-21.0.19-all.jar!/:21.0.19]
+	at TRANSFORMER/balm@21.0.19/net.blay09.mods.balm.forge.config.ForgeBalmConfig.lambda$initializeBackingConfig$9(ForgeBalmConfig.java:229) ~[balm-forge-1.21.1-21.0.19-all.jar!/:21.0.19]
+	at SECURE-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:258) ~[eventbus-6.2.8.jar:?]
+	at SECURE-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.lambda$addListener$3(EventBus.java:251) ~[eventbus-6.2.8.jar:?]
+	at SECURE-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:304) ~[eventbus-6.2.8.jar:?]
+	at SECURE-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:290) ~[eventbus-6.2.8.jar:?]
+	at LAYER PLUGIN/net.minecraftforge.javafmlmod@1.21.1-52.0.16/net.minecraftforge.fml.javafmlmod.FMLModContainer.lambda$new$0(FMLModContainer.java:44) ~[javafmllanguage-1.21.1-52.0.16.jar:52.0.16]
+	at LAYER PLUGIN/net.minecraftforge.fmlcore@1.21.1-52.0.16/net.minecraftforge.fml.ModContainer.dispatchConfigEvent(ModContainer.java:173) ~[fmlcore-1.21.1-52.0.16.jar:1.0]
+	at LAYER PLUGIN/net.minecraftforge.fmlcore@1.21.1-52.0.16/net.minecraftforge.fml.config.ModConfig.fireEvent(ModConfig.java:76) ~[fmlcore-1.21.1-52.0.16.jar:?]
+	at LAYER PLUGIN/net.minecraftforge.fmlcore@1.21.1-52.0.16/net.minecraftforge.fml.config.ConfigTracker.openConfig(ConfigTracker.java:66) ~[fmlcore-1.21.1-52.0.16.jar:?]
+	at LAYER PLUGIN/net.minecraftforge.fmlcore@1.21.1-52.0.16/net.minecraftforge.fml.config.ConfigTracker.loadConfigs(ConfigTracker.java:51) ~[fmlcore-1.21.1-52.0.16.jar:?]
+	at TRANSFORMER/forge@52.0.16/net.minecraftforge.fml.core.ModStateProvider.lambda$new$3(ModStateProvider.java:68) ~[forge-1.21.1-52.0.16-universal.jar:?]
+	at LAYER PLUGIN/net.minecraftforge.fmlcore@1.21.1-52.0.16/net.minecraftforge.fml.ModLoader.handleInlineTransition(ModLoader.java:241) ~[fmlcore-1.21.1-52.0.16.jar!/:1.0]
+	at LAYER PLUGIN/net.minecraftforge.fmlcore@1.21.1-52.0.16/net.minecraftforge.fml.ModLoader.dispatchAndHandleError(ModLoader.java:230) ~[fmlcore-1.21.1-52.0.16.jar!/:1.0]
+	at LAYER PLUGIN/net.minecraftforge.fmlcore@1.21.1-52.0.16/net.minecraftforge.fml.ModLoader.loadMods(ModLoader.java:206) ~[fmlcore-1.21.1-52.0.16.jar!/:1.0]
+	at TRANSFORMER/forge@52.0.16/net.minecraftforge.client.loading.ClientModLoader.lambda$startModLoading$5(ClientModLoader.java:80) ~[forge-1.21.1-52.0.16-universal.jar!/:?]
+	at TRANSFORMER/forge@52.0.16/net.minecraftforge.client.loading.ClientModLoader.lambda$createRunnableWithCatch$4(ClientModLoader.java:72) ~[forge-1.21.1-52.0.16-universal.jar!/:?]
+	at TRANSFORMER/forge@52.0.16/net.minecraftforge.client.loading.ClientModLoader.startModLoading(ClientModLoader.java:80) ~[forge-1.21.1-52.0.16-universal.jar!/:?]
+	at TRANSFORMER/forge@52.0.16/net.minecraftforge.client.loading.ClientModLoader.lambda$onResourceReload$2(ClientModLoader.java:63) ~[forge-1.21.1-52.0.16-universal.jar!/:?]
+	at TRANSFORMER/forge@52.0.16/net.minecraftforge.client.loading.ClientModLoader.lambda$createRunnableWithCatch$4(ClientModLoader.java:72) ~[forge-1.21.1-52.0.16-universal.jar!/:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) [?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) [?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
+[14:25:21] [Worker-Main-16/INFO]: Found @JourneyMapPlugin: journeymap.api.plugins.LoadedChunkOverlayPlugin
+[14:25:21] [Worker-Main-8/INFO]: Found unifont_all_no_pua-15.1.05.hex, loading
+[14:25:21] [Worker-Main-14/INFO]: Found unifont_jp_patch-15.1.05.hex, loading
+[14:25:21] [Render thread/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[14:25:21] [Render thread/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[14:25:21] [Render thread/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[14:25:21] [Render thread/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[14:25:21] [Render thread/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[14:25:21] [Render thread/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[14:25:21] [Forge Version Check/INFO]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
+[14:25:21] [Render thread/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[14:25:21] [Render thread/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[14:25:21] [Render thread/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[14:25:21] [Render thread/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 2
+[14:25:21] [Worker-Main-5/INFO]: Reloading reverb parameters
+[14:25:21] [Worker-Main-6/INFO]: Registering config screens for mod comforts with 2 config(s)
+[14:25:21] [Render thread/INFO]: Journeymap Initializing
+[14:25:21] [Forge Version Check/INFO]: [mcwwindows] Found status: BETA Current: 2.3.2 Target: null
+[14:25:21] [Forge Version Check/INFO]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[14:25:21] [Forge Version Check/INFO]: [sound_physics_remastered] Found status: BETA Current: 1.21.1-1.4.6 Target: 1.21.1-1.4.6
+[14:25:21] [Forge Version Check/INFO]: [forgeendertech] Starting version check at https://forge.curseupdate.com/244844/forgeendertech
+[14:25:22] [Forge Version Check/INFO]: [forgeendertech] Found status: UP_TO_DATE Current: 12.0.0.1 Target: null
+[14:25:22] [Forge Version Check/INFO]: [mcwpaintings] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paintings.json
+[14:25:22] [Forge Version Check/INFO]: [mcwpaintings] Found status: BETA Current: 1.0.5 Target: null
+[14:25:22] [Forge Version Check/INFO]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[14:25:22] [Forge Version Check/INFO]: [journeymap] Found status: BETA Current: 1.21-6.0.0-beta.25 Target: 1.21-6.0.0-beta.22
+[14:25:22] [Forge Version Check/INFO]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[14:25:22] [Forge Version Check/INFO]: [travelersbackpack] Found status: BETA Current: 10.0.1 Target: null
+[14:25:22] [Forge Version Check/INFO]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.21.1&ml=forge
+[14:25:22] [Forge Version Check/INFO]: [bookshelf] Found status: BETA Current: 21.1.2 Target: 21.1.2
+[14:25:22] [Forge Version Check/INFO]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[14:25:22] [Forge Version Check/INFO]: [mcwdoors] Found status: BETA Current: 1.1.1 Target: null
+[14:25:22] [Forge Version Check/INFO]: [additional_lights] Starting version check at https://gist.githubusercontent.com/mgen256/59abe85e7950f2319e7538afe2f910ba/raw
+[14:25:22] [Forge Version Check/INFO]: [additional_lights] Found status: BETA Current: 2.1.9 Target: null
+[14:25:22] [Forge Version Check/INFO]: [prickle] Starting version check at https://updates.blamejared.com/get?n=prickle&gv=1.21.1&ml=forge
+[14:25:23] [Forge Version Check/INFO]: [prickle] Found status: BETA Current: 21.1.2 Target: 21.1.2
+[14:25:23] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[14:25:23] [Forge Version Check/INFO]: [forge] Found status: BETA Current: 52.0.16 Target: 52.0.16
+[14:25:23] [Forge Version Check/INFO]: [mcwpaths] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paths.json
+[14:25:23] [Forge Version Check/INFO]: [mcwpaths] Found status: BETA Current: 1.0.5 Target: null
+[14:25:23] [Forge Version Check/INFO]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[14:25:23] [Forge Version Check/INFO]: [mcwbridges] Found status: BETA Current: 3.0.0 Target: null
+[14:25:23] [Forge Version Check/INFO]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.21.1&ml=forge
+[14:25:23] [Forge Version Check/INFO]: [enchdesc] Found status: BETA Current: 21.1.1 Target: 21.1.1
+[14:25:23] [Forge Version Check/INFO]: [mcwtrpdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/trapdoors.json
+[14:25:23] [Forge Version Check/INFO]: [mcwtrpdoors] Found status: BETA Current: 1.1.3 Target: null
+[14:25:23] [Forge Version Check/INFO]: [mcwfences] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/fences.json
+[14:25:23] [Forge Version Check/INFO]: [mcwfences] Found status: BETA Current: 1.1.2 Target: null
+[14:25:23] [Forge Version Check/INFO]: [adlods] Starting version check at https://forge.curseupdate.com/318833/adlods
+[14:25:23] [Forge Version Check/INFO]: [adlods] Found status: UP_TO_DATE Current: 9.0.0.0 Target: null
+[14:25:23] [Forge Version Check/INFO]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
+[14:25:23] [Forge Version Check/INFO]: [advancednetherite] Found status: BETA Current: 2.1.6 Target: 2.1.6
+[14:25:23] [Forge Version Check/INFO]: [mcwroofs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/roofs.json
+[14:25:23] [Forge Version Check/INFO]: [mcwroofs] Found status: BETA Current: 2.3.1 Target: null
+[14:25:23] [Forge Version Check/INFO]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
+[14:25:23] [Forge Version Check/INFO]: [mcwfurnitures] Found status: BETA Current: 3.3.0 Target: null
+[14:25:23] [Forge Version Check/INFO]: [adchimneys] Starting version check at https://forge.curseupdate.com/244830/adchimneys
+[14:25:23] [Forge Version Check/INFO]: [adchimneys] Found status: UP_TO_DATE Current: 11.0.3.0 Target: null
+[14:25:23] [Forge Version Check/INFO]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
+[14:25:23] [Forge Version Check/INFO]: [mcwlights] Found status: BETA Current: 1.1.0 Target: null
+[14:25:24] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[14:25:24] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[14:25:24] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Headset Earphone (GameDAC Hi-Res)
+[14:25:24] [Render thread/INFO]: Initializing Sound Physics
+[14:25:24] [Render thread/INFO]: EFX Extension recognized
+[14:25:24] [Render thread/INFO]: Max auxiliary sends: 4
+[14:25:24] [Render thread/INFO]: Aux slot 1 created
+[14:25:24] [Render thread/INFO]: Aux slot 2 created
+[14:25:24] [Render thread/INFO]: Aux slot 3 created
+[14:25:24] [Render thread/INFO]: Aux slot 4 created
+[14:25:24] [Render thread/INFO]: EFX ready
+[14:25:24] [Render thread/INFO]: Sound engine started
+[14:25:24] [Render thread/INFO]: Created: 2048x2048x4 minecraft:textures/atlas/blocks.png-atlas
+[14:25:24] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/signs.png-atlas
+[14:25:24] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[14:25:24] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[14:25:24] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[14:25:24] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[14:25:24] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[14:25:24] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[14:25:24] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[14:25:24] [Render thread/WARN]: @Final field itemInHandRenderer:Lnet/minecraft/client/renderer/ItemInHandRenderer; in weaponmaster_ydm.mixins.json:PlayerItemInHandLayerMixin should be final
+[14:25:24] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/particles.png-atlas
+[14:25:24] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/paintings.png-atlas
+[14:25:24] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[14:25:24] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[14:25:24] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[14:25:24] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[14:25:25] [Render thread/WARN]: Shader journeymap:sepia_3 could not find uniform named ColorModulator in the specified shader program.
+[14:25:25] [Render thread/WARN]: Shader journeymap:sepia_2 could not find uniform named ColorModulator in the specified shader program.
+[14:25:25] [Render thread/WARN]: Shader journeymap:sepia_1 could not find uniform named ColorModulator in the specified shader program.
+[14:25:25] [Render thread/INFO]: Created: 256x256x0 jei:textures/atlas/gui.png-atlas
+[14:25:25] [Render thread/INFO]: Created: 1024x512x0 fallingleaves:leaves-atlas
+[14:25:25] [Render thread/INFO]: Created: 1024x512x0 fallingleaves:leaves-atlas
+[14:25:47] [Render thread/INFO]: Stopping!
+[14:25:47] [Render thread/INFO]: Disconnected from server, resetting proxy config values
